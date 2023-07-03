@@ -1,0 +1,9 @@
+#my {
+    background-color: black; text-align: left; color: white; font-family: monospace; font-size: 40px;
+}
+#pro {
+    background-color: rebeccapurple; text-align: center; color: white; font-style: italic; font-size: 30px;
+}
+#us {
+    background-color: lightskyblue; text-align: right; color: black; font-family: cursive; text-decoration: underline; font-weight: 300;
+}
